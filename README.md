@@ -3,7 +3,9 @@
 ## on heroku.
 
 ## About:
-Hello-Heroku-app builds off of my hello node app: 
+Hello-Heroku-app builds off of my hello node app: https://github.com/dcozartII/hello-node-app.
+It is all the same code but the main thing we are doing differently is uploading it 
+to heroku by creating an account and using the repo from github to add code to the heroku website version.
 
 
 ### Steps to find the website
